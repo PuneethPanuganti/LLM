@@ -1,4 +1,7 @@
-# LLM
+# AI-Driven Sentiment Clustering
+Developed an AI-powered sentiment analysis pipeline leveraging Hugging Face Transformers and Sentence Transformers for clustering and classifying text data, enhancing contextual sentiment interpretation.
+
+Utilized state-of-the-art Large Language Models (LLMs) and K-Means clustering to analyze text patterns, demonstrating expertise in NLP-driven data insights.
 
 Large Language Models (LLMs) can be extremely useful for analyzing text data, including comments associated with cases, to extract common themes and patterns within a specified timeframe. LLMs provide a deep understanding of language context, sentiment, and thematic elements in text data
 
